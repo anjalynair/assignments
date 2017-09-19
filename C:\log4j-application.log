@@ -1,0 +1,10 @@
+2017-09-17 13:18:11 DEBUG HelloExample:21 - This is debug : mkyong
+2017-09-17 13:18:11 INFO  HelloExample:25 - This is info : mkyong
+2017-09-17 13:18:11 WARN  HelloExample:28 - This is warn : mkyong
+2017-09-17 13:18:11 ERROR HelloExample:29 - This is error : mkyong
+2017-09-17 13:18:11 FATAL HelloExample:30 - This is fatal : mkyong
+2017-09-17 13:19:05 DEBUG HelloExample:21 - This is debug : HighPeak
+2017-09-17 13:19:05 INFO  HelloExample:25 - This is info : HighPeak
+2017-09-17 13:19:05 WARN  HelloExample:28 - This is warn : HighPeak
+2017-09-17 13:19:05 ERROR HelloExample:29 - This is error : HighPeak
+2017-09-17 13:19:05 FATAL HelloExample:30 - This is fatal : HighPeak
